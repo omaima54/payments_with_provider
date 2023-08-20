@@ -1,0 +1,51 @@
+[
+  {
+    "date" : "10/12/2023 12:00:00",
+    "title_state" : "Transaction en attente",
+    "state" : "pending",
+    "amount" : 1000.0
+  },
+  {
+    "date" : "10/12/2023 10:00:00",
+    "title_state" : "Transaction validée",
+    "state" : "validated",
+    "amount" : 200.0
+  },
+  {
+    "date" : "10/12/2023 09:00:00",
+    "title_state" : "Transaction refusée",
+    "state" : "refused",
+    "amount" : "100"
+  },
+  {
+    "date" : "10/12/2023 01:00:00",
+    "title_state" : "Transaction annulée",
+    "state" : "canceled",
+    "amount" : 100.0
+  },
+  {
+    "date" : "10/12/2023 10:00:00",
+    "title_state" : "Transaction validée",
+    "state" : "validated",
+    "amount" : 200.0
+  },
+  {
+    "date" : "10/12/2023 01:00:00",
+    "title_state" : "Transaction annulée",
+    "state" : "canceled",
+    "amount" : 100.0
+  },
+  {
+    "date" : "10/12/2023 09:00:00",
+    "title_state" : "Transaction refusée",
+    "state" : "refused",
+    "amount" : "100"
+  },
+  {
+    "date" : "10/12/2023 12:00:00",
+    "title_state" : "Transaction en attente",
+    "state" : "pending",
+    "amount" : 1000.0
+  }
+  
+]
